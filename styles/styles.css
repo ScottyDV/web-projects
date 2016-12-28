@@ -1,0 +1,21 @@
+p {
+ font-family: 'Aref Ruqaa', serif;
+p {
+ font-family: 'Aref Ruqaa', serif;
+}
+
+html {
+    font-size: 45px;
+    font-family: placeholder: 'Aref Ruqaa' serif;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+p,li {
+	font-size: 20px;
+	line-height: 2;
+	letter-spacing: 2px;
+}
