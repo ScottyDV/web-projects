@@ -1,1 +1,1 @@
-I hope this website is gonna be good. 
+This website features the many details of how Amazon works.

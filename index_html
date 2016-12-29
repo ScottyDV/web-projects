@@ -1,24 +1,35 @@
 <!DOCTYPE html>
+
 <html>
+
   <head>
-  <h1 style="font-size: 25px">
-  Amazon is Awesome
-  </h1>
+
     <meta charset="utf-8">
+
     <title>Amazon</title>
+
 <link href="styles/styles.css" rel="stylesheet" type="text/css">
+
 <link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa" rel="stylesheet" type="text/css">
-</head>
-  <img src="images/amazon.png" alt="My test image">
-  <body>
+  <h1> Customer Service</h1>
+  <img src="images/Service2.jpg" alt="Image of Amazon icon">
   <p style="font-size: 20px">At Amazon we specialize in</p>
+
 <ul style="font-size: 20px">
     <li>Sending</li>
     <li>Reciving</li>
     <li>Being rich</li>
 </ul>
+
 <p style="font-size: 20px"> At Amazon, we're pushing the boundaries of the internet, by making not only merchandise available to all who have internet, but also providing thousands of books, movies and helpful tools. We're focused on trying the next generation to become indepentant and grow not as one, but as a group, as a people, as a Earth.</p>
 
  <p style="font-size: 20px"> Please visit their offical website <a href="https://www.amazon.com/">Amazon</a>. We hope you like what you find</p>
-  </body>
+
+ <h2 style="font-size:25">Production</h2>
+<img src="images/Lego.png" alt="Image of Amazon's Production Team">
+
+<p style="font-size: 20px">Production Team</p>
+
+<p style="font-size: 20px">At Amazon's Production Team, we are eager to help you in anyway possible. We absolutely love being able to make our clients happy, and it gives our great pleasure to do so. One of our follow co-workers said this "At times, I'll look around, and I will realize I'm making a difference. Without me, people wouldn't have packages, or get gifts on time. My line of work is truly rewarding. And although I feel like killing myself such my job is so mindless, it pay's the bills and that is all that matters to me!</p>
+
 </html>
