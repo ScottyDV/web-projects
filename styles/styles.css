@@ -1,7 +1,5 @@
 p {
  font-family: 'Aref Ruqaa', serif;
-p {
- font-family: 'Aref Ruqaa', serif;
 }
 
 html {
@@ -10,6 +8,15 @@ html {
 }
 
 h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #322E2E;
+	text-shadow: 3px 3px 1px black;
+	font-size: 60px;
+	text-align: center;
+}
+
+h2 {
 	font-size: 60px;
 	text-align: center;
 }
@@ -17,5 +24,16 @@ h1 {
 p,li {
 	font-size: 20px;
 	line-height: 2;
-	letter-spacing: 2px;
+	letter-spacing: 4px;
+}
+html {
+	background-color: #D8B0B0
+}
+
+body {
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #D8B0B1
+    padding:0 20px 20px 20px;
+    border: 0px solid black;
 }

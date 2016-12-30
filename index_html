@@ -6,11 +6,15 @@
 
     <meta charset="utf-8">
 
-    <title>Amazon</title>
+    <title>Test Site</title>
 
 <link href="styles/styles.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa" rel="stylesheet" type="text/css">
+ </head>
+
+ <body>
+
   <h1> Customer Service</h1>
   <img src="images/Service2.jpg" alt="Image of Amazon icon">
   <p style="font-size: 20px">At Amazon we specialize in</p>
@@ -31,5 +35,12 @@
 <p style="font-size: 20px">Production Team</p>
 
 <p style="font-size: 20px">At Amazon's Production Team, we are eager to help you in anyway possible. We absolutely love being able to make our clients happy, and it gives our great pleasure to do so. One of our follow co-workers said this "At times, I'll look around, and I will realize I'm making a difference. Without me, people wouldn't have packages, or get gifts on time. My line of work is truly rewarding. And although I feel like killing myself such my job is so mindless, it pay's the bills and that is all that matters to me!</p>
-
+<ul style="font-size: 20px">
+  <li> Building</li>
+  <li> Manufacturing</li>
+<li> Produceing</li>
+<li> Computing</li>
+</ul>
+<p style="font-size: 20px">These are but a few things that we are able and willing to do, in order to fully satify our clients. Here is a link, to how we define <a href="http://www.businessdictionary.com/definition/production.html"> Production</a> </p>
+</body>
 </html>
